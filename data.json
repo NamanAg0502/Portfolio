@@ -1,168 +1,111 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Naman Agrawal",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Naman",
         "subtitles": [
             "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
+            "UI Frontend-developer 📱💻",
+            "Exploring Blockchain ☁️",
             "Just getting started 📈"
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "naman-agrawal",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/namanagrwal/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
+                "alt": "naman",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/namanag0502"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:naman.agrawal.na05@gmail.com"
             }
         ]
     },
     "skills": {
         "Languages known": [
             "JavaScript",
-            "Java",
             "C++",
-            "Python",
             "HTML5",
             "CSS3",
             "TypeScript",
-            "Kotlin",
-            "Dart"
+            "Solidity"
         ],
         "Frontend": [
             "React",
             "Redux",
             "Next.js",
-            "Gatsby",
             "Netlify",
             "Vercel",
-            "Material-UI",
+            "TailwindCSS",
             "antdesign",
             "Bootstrap"
         ],
         "Backend, Database and Cloud": [
             "Node.js",
             "Express",
-            "FastAPI",
             "MongoDB",
-            "MySQL",
-            "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
-            "Heroku",
             "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/namanag0502/",
         "repositories": [
-            "Genrealize",
-            "Portfolio",
-            "cosmicom",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "1DBM"
+            "nft-collection",
+            "iAmEarly",
+            "nextjs-mongodb-blog-app"
         ]
     },
     "experience": {
-        "Work Experience": [
-            {
-                "organization": "CloudDFN LLP",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
-            },
-            {
-                "organization": "NonceBlox Pvt. Ltd.",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
-                "city": "New Delhi",
-                "state": "Delhi",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://media-exp1.licdn.com/dms/image/C510BAQFlYpD4CBqdNg/company-logo_200_200/0/1519500564654?e=1645056000&v=beta&t=zNmk6RfkUEj3vPWJ4cFEBvtIPdv5vOnBlgeSvMhnTa4"
-            }
-        ],
         "Volunteer Experience": [
             {
-                "organization": "PICT IEEE Student Branch (PISB)",
+                "organization": "Model United Nations, IITBHU",
                 "role": "Technical Head",
                 "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
+                "startDate": "2021-12",
+                "endDate": "2022-03",
+                "city": "Varanasi",
+                "state": "Uttar Pradesh",
                 "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
+                "url": "https://www.linkedin.com/company/iitbhumun/",
+                "thumbnail": "/iitbhumun.jpeg"
             },
             {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
+                "organization": "Traning and Placement Cell, IITBHU",
+                "role": "Technical Team",
                 "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
+                "startDate": "2022-03",
+                "endDate": "",
+                "city": "Varanasi",
+                "state": "Uttar Pradesh",
                 "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
+                "url": "https://www.linkedin.com/company/tpoiitbhu/mycompany/",
+                "thumbnail": "/tpc.jpeg"
             }
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with the best UI practices.",
+        "description": "I am a full-stack developer, pursuing my B-Tech degree from Indian Institute of Technology (BHU), Varanasi. I strive to make meaningful applications with the best UI practices.",
         "picture": "/profile.jpg",
         "social": [
             {
-                "alt": "kaustubh._.o",
+                "alt": "_nmn_agrwl_",
                 "icon": "instagram",
-                "link": "https://www.instagram.com/kaustubh._.o/"
+                "link": "https://www.instagram.com/_nmn_agrwl_/"
             },
             {
-                "alt": "KO_272",
+                "alt": "Naman_Agrwl",
                 "icon": "twitter",
-                "link": "https://twitter.com/KO_272"
+                "link": "https://twitter.com/Naman_Agrwl"
             },
             {
-                "alt": "kaustubh#4489",
+                "alt": "Huyg#7650",
                 "icon": "discord",
-                "link": "https://discord.com/"
+                "link": "https://discord.com/ "
             }
         ]
     },
